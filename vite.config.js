@@ -45,6 +45,7 @@ export default defineConfig(({ command }) => {
         },
       }),
     ],
+    base: '/flower-shop-1/',
     css: {
       preprocessorOptions: {
         scss: {
