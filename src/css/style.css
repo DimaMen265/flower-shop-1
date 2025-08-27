@@ -93,7 +93,7 @@ textarea {
 }
 
 .heading-primary-span {
-  color: #32cd32;
+  color: #c9b6e4;
 }
 
 .heading-sec__mb-bg {
@@ -142,7 +142,7 @@ textarea {
   top: calc(100% + 1.5rem);
   height: 5px;
   width: 3rem;
-  background: #32cd32;
+  background: #c9b6e4;
   left: 50%;
   transform: translateX(-50%);
   border-radius: 5px;
@@ -182,7 +182,7 @@ textarea {
 }
 
 .heading-sm-span {
-  color: #32cd32;
+  color: #c9b6e4;
 }
 
 .main-container {
@@ -192,7 +192,7 @@ textarea {
 }
 
 .btn {
-  background: #32cd32;
+  background: #c9b6e4;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -218,14 +218,14 @@ textarea {
 }
 
 .btn--theme {
-  background: #32cd32;
+  background: #c9b6e4;
   color: #fff;
 }
 
 .btn--theme-inv {
-  color: #32cd32;
+  color: #c9b6e4;
   background: #fff;
-  border: 2px solid #32cd32;
+  border: 2px solid #c9b6e4;
   box-shadow: none;
   padding: calc(1.5rem - 2px) calc(5rem - 2px);
 }
@@ -260,7 +260,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background: url(../assets/jpeg/hero-bg.jpg), #32cd32;
+  background: url(../assets/jpeg/flower-bg.jpg), #c9b6e4;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -280,8 +280,8 @@ textarea {
 .home-hero__socials {
   position: absolute;
   top: 50%;
-  border: 2px solid #32cd32;
-  border-left: 2px solid #32cd32;
+  border: 2px solid #c9b6e4;
+  border-left: 2px solid #c9b6e4;
   transform: translateY(-50%);
 }
 
@@ -312,13 +312,13 @@ textarea {
   width: 100%;
   display: block;
   padding: 1.2rem;
-  border-bottom: 2px solid #32cd32;
-  background-color: rgba(50, 205, 50, 0.3);
+  border-bottom: 2px solid #c9b6e4;
+  background-color: rgba(201, 182, 228, 0.3);
   transition: background-color 0.3s;
 }
 
 .home-hero__social-icon-link:hover {
-  background: rgba(50, 205, 50, 0.9);
+  background: rgba(201, 182, 228, 0.9);
 }
 
 .home-hero__social-icon-link--bd-none {
@@ -485,8 +485,8 @@ textarea {
 .contact {
   background: linear-gradient(
       to right,
-      rgba(50, 205, 50, 0.8),
-      rgba(50, 205, 50, 0.8)
+      rgba(201, 182, 228, 0.8),
+      rgba(201, 182, 228, 0.8)
     ),
     url(../assets/svg/common-bg.svg);
   background-size: cover;
@@ -603,8 +603,8 @@ textarea {
   color: #fff;
   background: linear-gradient(
       to right,
-      rgba(50, 205, 50, 0.8),
-      rgba(50, 205, 50, 0.8)
+      rgba(201, 182, 228, 0.8),
+      rgba(201, 182, 228, 0.8)
     ),
     url(../assets/svg/common-bg.svg);
   background-size: cover;
@@ -730,7 +730,7 @@ textarea {
   display: flex;
   align-items: center;
   cursor: pointer;
-  color: #32cd32;
+  color: #c9b6e4;
 }
 
 .header__logo-img-cont {
@@ -750,8 +750,8 @@ textarea {
   object-fit: cover;
   object-position: center;
   display: block;
-  stroke: #32cd32;
-  fill: #32cd32;
+  stroke: #c9b6e4;
+  fill: #c9b6e4;
 } */
 
 .header__logo-sub-container {
@@ -764,7 +764,7 @@ textarea {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 3px;
-  color: #32cd32;
+  color: #c9b6e4;
 }
 
 .header__logo-sub {
@@ -772,7 +772,7 @@ textarea {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #32cd32;
+  color: #c9b6e4;
 }
 
 .header__links {
@@ -797,7 +797,7 @@ textarea {
 }
 
 .header__link:hover {
-  color: #32cd32;
+  color: #c9b6e4;
 }
 
 @media only screen and (max-width: 56.25em) {
@@ -867,7 +867,7 @@ textarea {
 }
 
 .header__sm-menu-link a:hover {
-  color: #32cd32;
+  color: #c9b6e4;
 }
 
 .header__sm-menu-link:first-child a {
